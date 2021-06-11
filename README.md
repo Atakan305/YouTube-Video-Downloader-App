@@ -2,8 +2,10 @@
 It is an application that we can download videos from youtube in mp3 and mp4 format with a few lines of Python code.
 
 First, Install the following required libraries:
-pip install pafy
-pip install youtube_dl 
+
+--> pip install pafy
+
+--> pip install youtube_dl 
 
 Then import the pafy lib as 'import pafy'.
 
